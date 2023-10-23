@@ -45,11 +45,6 @@ nav ul li a:hover {
     height: auto;
 }
 
-.hero {
-    background-color: #f4f4f4;
-    padding: 2rem
-}
-
 .dropdown {
     position: relative;
     display: inline-block;
